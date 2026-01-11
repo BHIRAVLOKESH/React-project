@@ -2,15 +2,11 @@
 **React Internship Assignment**
 
 This project is part of a React internship assignment.
-
 The goal was to build a React application that shows artwork data from the Art Institute of Chicago API using a table with pagination and row selection.
-
 The app is built using React + TypeScript + Vite and uses PrimeReact DataTable for rendering the table.
 
 **Live Demo**
-
 Netlify Link:
-
 👉https://stalwart-melba-353927.netlify.app/
 
 **Technologies Used**
