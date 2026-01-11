@@ -2,7 +2,9 @@
 **React Internship Assignment**
 
 This project is part of a React internship assignment.
+
 The goal was to build a React application that shows artwork data from the Art Institute of Chicago API using a table with pagination and row selection.
+
 The app is built using React + TypeScript + Vite and uses PrimeReact DataTable for rendering the table.
 
 **Live Demo**
@@ -36,15 +38,10 @@ No data is prefetched or stored for other pages.
 The following fields are shown in the table:
 
 Title
-
 Place of Origin
-
 Artist Display
-
 Inscriptions
-
 Date Start
-
 Date End
 
 **Features Implemented**
